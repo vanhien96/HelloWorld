@@ -8,6 +8,6 @@ namespace GitSample
 {
     class Class1
     {
-    }
+    } 
 } 
  
