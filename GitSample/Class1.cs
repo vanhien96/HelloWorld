@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GitSample
 {
     class Class1
-    {
+    { 
     } 
 } 
  
